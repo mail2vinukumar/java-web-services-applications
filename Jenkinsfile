@@ -1,4 +1,4 @@
-stage 'Build' 
+stage 'Build'
  
 node {
   // Checkout
